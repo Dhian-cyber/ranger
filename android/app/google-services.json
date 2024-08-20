@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "574016630919",
+    "firebase_url": "https://ranger-c2bac-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ranger-c2bac",
+    "storage_bucket": "ranger-c2bac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574016630919:android:86026dc33acdd32cdc0822",
+        "android_client_info": {
+          "package_name": "com.example.ranger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDT5v3DC92uJW2BjFHB6-QkpcBotT6-yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
